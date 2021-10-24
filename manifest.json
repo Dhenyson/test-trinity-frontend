@@ -1,0 +1,8 @@
+{
+  "short_name": "Github Search",
+  "name": "Github Search",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#242435",
+  "background_color": "#ffffff"
+}
