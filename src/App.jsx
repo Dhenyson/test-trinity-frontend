@@ -2,6 +2,8 @@ import { Switch, Route, HashRouter} from 'react-router-dom'
 import Home from './pages/home'
 import User from './pages/user'
 
+//teste de feature de descrição
+
 function App() {
   return (
     <HashRouter className="App">
